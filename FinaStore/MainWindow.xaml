@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:FinaStore"
         mc:Ignorable="d"
-        Title="Aresa Store" Height="354" Width="651"   WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Background="#FF858585">
+        Title="Fina Store" Height="354" Width="651"   WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Background="#FF858585">
     <Grid Margin="0,0,0,4" HorizontalAlignment="Center" Width="1011">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="153*"/>
