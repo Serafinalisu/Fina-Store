@@ -1,4 +1,4 @@
-﻿﻿## Grab Eat
+﻿﻿## Fina Store
 penerapan MVC untuk memudahkan user dalam pemesanan item.
 
 ### SCOPE & FUNCTIONALITIES
